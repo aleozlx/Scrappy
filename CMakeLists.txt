@@ -12,6 +12,7 @@ find_package(Qt5Widgets REQUIRED)
 set(scrappy_SRC
   src/main.cpp
   src/scrappy.cpp
+  src/listwidget.cpp
 )
 
 # Create code from a list of Qt designer ui files.
