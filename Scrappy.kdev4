@@ -1,4 +1,3 @@
 [Project]
+Manager=KDevGenericManager
 Name=Scrappy
-Manager=KDevCMakeManager
-VersionControl=kdevgit

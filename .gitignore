@@ -12,3 +12,5 @@ Doxyfile
 *.kdevses
 .*kate-swp
 build/
+
+__pycache__/
